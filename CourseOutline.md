@@ -29,33 +29,20 @@ Functions/Concepts/Terminology: Object hierarchy, Metadata, Data Preview, Univer
 Lesson 2.2 - Getting Data into Snowflake
 Learner will be able to load data into Snowflake using the Snowsight web interface. Include the need for virtual warehouses and the importance of suspending them for cost efficiency.
 Learner will be able to explore data/assess data quality (e.g., identifying null values, duplicates, or unexpected patterns) through visualisations and tabular data filtering options built into Snowsight. 
-Functions/Concepts/Terminology: Data loading, data qualitty, virtual warehouses
+Functions/Concepts/Terminology: Data loading, virtual warehouses, data quality, data profiling, basic data exploration
 
 Lesson 2.3 - Data Fundamentals
-Learner will be able to explain common data file formats (e.g., CSV, JSON) and their use cases.
+Learner will be able to explain common data file formats (e.g., CSV, JSON) and their use cases, difference between internal and external data sources in Snowflake.
 Learner will be able to understand the concept of staging tables and their role in preparing data before loading into final tables.
-Learner will be able to understand the basic steps of the data loading process in Snowflake, from file selection to error handling.
-Learner will be able to understand the difference between internal and external data sources/stages in Snowflake.
 Learner will be able to understand how Snowflake can query data from external sources (e.g., cloud storage locations) without loading.
-Functions/Concepts/Terminology:  CSV, JSON, data transformation, error handling, data connectors, bulk loading, continuous loading (Snowpipe)
- 
-Lesson x.x - Working with Semi-structured Data
-Learner will be able to work with semi-structured data (JSON) in Snowflake.
-Learner will be able to query and extract data from JSON objects.
-Functions/Concepts/Terminology: JSON, JSON path expressions, arrays, objects
+Learner will be able to understand the basic steps of the data loading process in Snowflake, from file selection to error handling including bulk loading vs continuous loading.
+Functions/Concepts/Terminology: CSV, JSON, staging tables, error handling, bulk loading, continuous loading (Snowpipe), internal/external data sources
   
 Lesson 2.4 -  Beyond the Basics
-Learner will be able to describe the concept of data connectors and other data loading options in Snowflake (e.g., bulk loading, continuous loading), highlighting how connectors simplify the integration process.
+Learner will be able to describe the concept of data connectors highlighting how they simplify the integration process and summarize key data loading options in Snowflake.
 Learner will be able to identify advanced Snowflake capabilities (Snowpark, data lakes, data sharing, ML workloads), providing examples of how they solve real-world data problems.
 Functions/Concepts/Terminology: Data loading, Data connectors, Integrations, Data Platform, Snowpark, Data Lake, Data sharing, ML workloads.
 
-
-
-
-
-
-   * Learner will be able to identify advanced Snowflake capabilities (Snowpark, data lakes, data sharing, ML workloads), providing examples of how they solve real-world data problems. 
-   * **Functions/Concepts/Terminology:** Staging tables, internal stages, external stages, cloud storage (e.g., S3, Azure Blob Storage, GCP), Snowpark, data lakes 
 
 
 
