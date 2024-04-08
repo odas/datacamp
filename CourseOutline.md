@@ -33,10 +33,9 @@
    * **Functions/Concepts/Terminology:** Data loading, virtual warehouses, data quality, data profiling, basic data exploration 
 
 * **Lesson 2.3 - Data Fundamentals** 
-   * Learner will be able to explain common data file formats (e.g., CSV, JSON) and their use cases, the difference between internal and external data sources in Snowflake.
+   * Learner will be able to understand the basic steps of the data loading process in Snowflake, from file selection to error handling, including bulk loading vs continuous loading, internal vs external data sources in Snowflake.
    * Learner will be able to understand the concept of staging tables and their role in preparing data before loading into final tables. 
    * Learner will be able to understand how Snowflake can query data from external sources (e.g., cloud storage locations) without loading. 
-   * Learner will be able to understand the basic steps of the data loading process in Snowflake, from file selection to error handling including bulk loading vs continuous loading. 
    * **Functions/Concepts/Terminology:** CSV, JSON, staging tables, error handling, bulk loading, continuous loading (Snowpipe), internal/external data sources
 
 * **Lesson 2.4 - Beyond the Basics**
