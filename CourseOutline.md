@@ -3,6 +3,7 @@
 **Chapter 1 - Snowflake Essentials**
 
 * **Lesson 1.1 - Cloud Data Warehousing and Snowflake's Edge**
+   * Learner should be able to understand the role of Snowflake in modern data management. (bridge the gap between RDBs-data warehouses-cloud data warehouses - data platform built for the cloud - succintly)
    * Learner will be able to define cloud data warehousing and explain how its scalability and pay-as-you-go model, etc., provide advantages over traditional data warehousing. 
    * Learner will be able to compare and contrast Snowflake's architecture with traditional systems and cloud competitors, emphasising key advantages (with real-world use cases **and** how its separation of storage and compute extends relational database concepts). 
    * **Functions/Concepts/Terminology:** Cloud data warehouse, scalability, pay-as-you-go, separation of storage and compute, multi-cluster shared data architecture.
